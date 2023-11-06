@@ -18,6 +18,7 @@
         display: flex;
         justify-content: center;
         color:black;
+        text-decoration: none;
     }
 
     .nav-links {
