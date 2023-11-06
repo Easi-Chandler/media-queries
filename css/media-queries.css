@@ -64,9 +64,6 @@ footer>p {
 
 
 
-
-
-
 @media screen and (max-width: 880px) {
     body {
         display: flex;
@@ -128,10 +125,4 @@ footer>p {
         max-height: 224px;
     }
 }
-
-
-
-
-
-
 
